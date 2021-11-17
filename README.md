@@ -7,7 +7,7 @@ This is how Muskardashian takes its approach on creating the greatest coin ever 
 
 MUSKARDASHIAN is a decentralized, deflationary, community driven meme token that’s forecasting the future.
 
-ELONOMICS
+# ELONOMICS
 
 TOTAL SUPPLY
 2,940,000,000,000
